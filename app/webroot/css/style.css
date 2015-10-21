@@ -1,0 +1,47 @@
+.nav>ul>li>a {
+    position: relative;
+    display: block;
+    /*padding: 0 15px;*/
+        background-color: transparent;
+        color: #337ab7;
+    text-decoration: none;
+
+}
+li>ul
+{
+	position: relative;
+	background-color: transparent;
+	 color: #337ab7;
+    display: block;
+    padding: 0 0px;
+    list-style: none;
+}
+.nav>ul
+{
+	 position: relative;
+    display: block;
+    padding: 1px 1px;
+}
+.nav>ul>li
+{
+	display: block;
+	list-style: none;
+}
+.mod_list>ul>li
+{
+ color: red;
+}
+.nav li ul li ul li a
+{
+	 position: relative;
+    display: block;
+    /*padding: 0 15px;*/
+        background-color: transparent;
+        color: #337ab7;
+    text-decoration: none;
+}
+th,tr
+    {
+        /*text-align: center !important;*/
+        
+    }
